@@ -1,6 +1,6 @@
-   ## Hi👋 I'm Renz Victa
+## Hi👋 I'm Renz Victa
 
-## 🔭 About Me:
+## ⚡ About Me:
 
 I am a 19 y/o Self-taught Software Developer who loves exploring the realms of coding...
 
@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 ## 🌱 What I'm Up To ...
 
-- Expanding knowledge in Data Structures & Algorithms Roadmap and Frontend Developer Roadmap from roadmap.sh
-- Venturing into the Foundations Course from The Odin Project
-- Learning Frontend Development Libraries Certification from freeCodeCamp  
+- Strenghtening my problem-solving skills through the Data Structures & Algorithms Roadmap and Frontend Developer Roadmap from roadmap.sh
+- Building solid foundations in web development with the Foundations Course from The Odin Project
+- Completing the Frontend Development Libraries Certification from freeCodeCamp  
