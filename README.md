@@ -1,4 +1,4 @@
-## Hi👋 I'm Renz Victa
+   ## Hi👋 I'm Renz Victa
 
 ## 🔭 About Me:
 
@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 ## 🌱 What I'm Up To ...
 
-- Data Structures & Algorithms Roadmap and Frontend Developer Roadmap from roadmap.sh
-- Foundations Course from The Odin Project
-- Frontend Development Libraries Certification from freeCodeCamp  
+- Expanding knowledge in Data Structures & Algorithms Roadmap and Frontend Developer Roadmap from roadmap.sh
+- Venturing into the Foundations Course from The Odin Project
+- Learning Frontend Development Libraries Certification from freeCodeCamp  
