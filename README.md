@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi👋 I'm Renz Victa
+
+## 🔭 About Me:
+
+I am a 19 y/o Self-taught Software Developer who loves exploring the realms of coding...
 
 <!--
 **Renz-Victa/Renz-Victa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +20,8 @@ Here are some ideas to get you started:
 -->
 
 
-## I'm Currently Learning ...
+## 🌱 What I'm Up To ...
 
 - Data Structures & Algorithms Roadmap and Frontend Developer Roadmap from roadmap.sh
 - Foundations Course from The Odin Project
 - Frontend Development Libraries Certification from freeCodeCamp  
-
-## I'm Currently Working on ...
-
-- Github Random Repository Finder
-
