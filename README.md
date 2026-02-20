@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## I'm Currently Learning ...
+
+- Data Structures & Algorithms Roadmap and Frontend Developer Roadmap from roadmap.sh
+- Foundations Course from The Odin Project
+- Frontend Development Libraries Certification from freeCodeCamp  
+
+## I'm Currently Working on ...
+
+- Github Random Repository Finder
+
