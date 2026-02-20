@@ -1,4 +1,4 @@
-## Hi👋 I'm Renz Victa
+## Hi👋 My name's Renzy
 
 ## ⚡ About Me:
 
@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 ## 🌱 What I'm Up To ...
 
-- Strenghtening my problem-solving skills through the Data Structures & Algorithms Roadmap and Frontend Developer Roadmap from roadmap.sh
+- Strenghthening my problem-solving skills through the Data Structures & Algorithms Roadmap and Frontend Developer Roadmap from roadmap.sh
 - Building solid foundations in web development with the Foundations Course from The Odin Project
 - Completing the Frontend Development Libraries Certification from freeCodeCamp  
