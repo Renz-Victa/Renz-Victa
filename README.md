@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - 📫 Building solid foundations in web development with the Foundations Course from The Odin Project
 
 
-![Joined GitHub](https://img.shields.io/badge/Started-December%2007%2C%202025-green)
+![Joined GitHub](https://img.shields.io/badgeJoinedGithub-December%2007%2C%202025-green)
