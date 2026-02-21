@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 - 💬 Completing the Frontend Development Libraries Certification from freeCodeCamp  
 - 🔭 Strenghthening my problem-solving skills through the Data Structures & Algorithms Roadmap and Frontend Developer Roadmap from roadmap.sh
 - 📫 Building solid foundations in web development with the Foundations Course from The Odin Project
+
+## 🚀 Project Started
+📅 Started on: January 15, 2026
+
+![Started](https://img.shields.io/badge/Started-January%2015%2C%202026-blue)
