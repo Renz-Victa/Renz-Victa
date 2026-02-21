@@ -2,7 +2,7 @@
 
 ## ⚡ About Me:
 
-I am a 19 y/o Self-taught Software Developer who loves exploring the realms of coding...
+I am a 19 y/o Self-taught Frontend Developer who loves building responsive web applications. Big on smooth UI, and code that does not make future-me cry...
 
 <!--
 **Renz-Victa/Renz-Victa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
