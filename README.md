@@ -26,4 +26,30 @@ Here are some ideas to get you started:
 - 🔭 Strenghthening my problem-solving skills through the Data Structures & Algorithms Roadmap and Frontend Developer Roadmap from roadmap.sh
 - 📫 Building solid foundations in web development with the Foundations Course from The Odin Project
 
+## 💻 Tech Stack:
+
+### 💻 Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🛠 Libraries & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB)
+
+### Styling & Layout
+![Flexbox](https://img.shields.io/badge/Flexbox-20232A?style=for-the-badge&logo=flexbox&logoColor=61DAFB)
+![CSS Grid](https://img.shields.io/badge/CSSGrid-20232A?style=for-the-badge&logo=cssgrid&logoColor=61DAFB)
+![Responsive Design](https://img.shields.io/badge/ResponsiveDesign-20232A?style=for-the-badge&logo=responsivedesign&logoColor=61DAFB)
+
+---
+
+### ⚙ Developer Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-F05032?style=for-the-badge&logo=github&logoColor=white
+![VS Code](https://img.shields.io/badge/VSCode-F05032?style=for-the-badge&logo=vscode&logoColor=white
+
+
 ![Started](https://img.shields.io/badge/Started-December%2007%2C%202025-green)
