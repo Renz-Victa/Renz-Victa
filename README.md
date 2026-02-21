@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - 🔭 Strenghthening my problem-solving skills through the Data Structures & Algorithms Roadmap and Frontend Developer Roadmap from roadmap.sh
 - 📫 Building solid foundations in web development with the Foundations Course from The Odin Project
 
-📅 ![Started](https://img.shields.io/badge/Started-December%2007%2C%202025-green)
+![Started](https://img.shields.io/badge/Started-December%2007%2C%202025-green)
