@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![GitHub User's stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social)
+![Joined GitHub](https://img.shields.io/badge/GitHub%20Member-Since%2007%20Dec%202025-181717?style=for-the-badge&logo=github)
 
 </div>
