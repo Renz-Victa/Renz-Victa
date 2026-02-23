@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Started](https://img.shields.io/badge/Started-December%2007%2C%202025-green)
+![GitHub User's stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social)
 
 </div>
