@@ -30,7 +30,11 @@ Here are some ideas to get you started:
 - 🔭 Strenghthening my problem-solving skills through the Data Structures & Algorithms Roadmap and Frontend Developer Roadmap from roadmap.sh
 - 📫 Building solid foundations in web development with the Foundations Course from The Odin Project
 
+<div align="center">
+
 ## ✨ Teck Stack
+
+</div>
 
 ## 💻 Languages
 
@@ -43,5 +47,8 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+<div align="center">
 
 ![Started](https://img.shields.io/badge/Started-December%2007%2C%202025-green)
+
+</div>
