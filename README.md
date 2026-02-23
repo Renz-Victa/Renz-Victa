@@ -1,4 +1,8 @@
+<div align="center">
+
 ## Hi👋 My name's Renzy
+
+</div>
 
 ## ⚡ About Me:
 
