@@ -8,6 +8,12 @@
 
 I am a 19 y/o Self-taught Frontend Developer who loves building responsive web applications. Big on smooth UI, and code that does not make future-me cry...
 
+<div align="center">
+
+![Joined GitHub](https://img.shields.io/badge/GitHub%20Member-Since%2007%20Dec%202025-181717?style=for-the-badge&logo=github)
+
+</div>
+
 <!--
 **Renz-Victa/Renz-Victa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,9 +52,3 @@ Here are some ideas to get you started:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-<div align="center">
-
-![Joined GitHub](https://img.shields.io/badge/GitHub%20Member-Since%2007%20Dec%202025-181717?style=for-the-badge&logo=github)
-
-</div>
