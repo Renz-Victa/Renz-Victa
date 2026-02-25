@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## 🌱 What I'm Up To ...
 
 - 💬 Completing the Frontend Development Libraries Certification from freeCodeCamp  
-- 🔭 Strenghthening my problem-solving skills through the Data Structures & Algorithms Roadmap and Frontend Developer Roadmap from roadmap.sh
+- 🔭 Strenghthening my problem-solving skills through the Frontend Developer Roadmap from roadmap.sh
 - 📫 Building solid foundations in web development with the Foundations Course from The Odin Project
 
 <div align="center">
