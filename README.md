@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 
 - 💬 Completing the Frontend Development Libraries Certification from freeCodeCamp  
 - 🔭 Strenghthening my problem-solving skills through the Frontend Developer Roadmap from roadmap.sh
-- 📫 Building solid foundations in web development with the Foundations Course from The Odin Project
 
 <div align="center">
 
