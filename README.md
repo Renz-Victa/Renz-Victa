@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 ## 🌱 What I'm Up To ...
 
-- 💬 Completing the Frontend Development Libraries Certification from freeCodeCamp  
-- 🔭 Strenghthening my problem-solving skills through the Frontend Developer Roadmap from roadmap.sh
+- 💬 Completing the Frontend Development Libraries Certification from [freeCodeCamp](https://www.freecodecamp.org/)
+- 🔭 Strenghthening my problem-solving skills through the Frontend Developer Roadmap from [roadmap.sh](https://roadmap.sh/dashboard)
 
 <div align="center">
 
