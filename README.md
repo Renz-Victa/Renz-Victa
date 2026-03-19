@@ -8,12 +8,6 @@
 
 I am a 19 y/o Self-taught Frontend Developer who loves building responsive web applications. Big on smooth UI and code that does not make future-me cry...
 
-<div align="center">
-
-![Joined GitHub](https://img.shields.io/badge/GitHub%20Member-Since%2007%20Dec%202025-181717?style=for-the-badge&logo=github)
-
-</div>
-
 <!--
 **Renz-Victa/Renz-Victa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
