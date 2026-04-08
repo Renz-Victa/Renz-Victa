@@ -6,7 +6,7 @@
 
 ## ⚡ About Me:
 
-I am a self-taught Frontend Engineer who loves building responsive web applications. Big on smooth UI and code that does not make future-me cry...
+I am a Frontend Engineer who loves building responsive web applications. Big on smooth UI and code that does not make future-me cry...
 
 <!--
 
